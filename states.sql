@@ -2087,7 +2087,6 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (2069, 'Kyonggi-do', 116),
 (2070, 'Kyungbuk-Do', 116),
 (2071, 'Kyunggi-Do', 116),
-(2072, 'Kyunggi-do', 116),
 (2073, 'Pusan', 116),
 (2074, 'Seoul', 116),
 (2075, 'Sudogwon', 116),
