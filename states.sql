@@ -3901,7 +3901,6 @@ INSERT INTO `states` (`id`, `name`, `country_id`) VALUES
 (3884, 'Oxford', 230),
 (3885, 'Powys', 230),
 (3886, 'Roos-shire', 230),
-(3887, 'SUSSEX', 230),
 (3888, 'Sark', 230),
 (3889, 'Scotland', 230),
 (3890, 'Scottish Borders', 230),
